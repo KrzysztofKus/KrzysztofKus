@@ -1,4 +1,4 @@
-Good morning/afternoon/evening,
+Hello,
 I'm Krzysztof Kus, 
 I've spent most of my career working as a civil structural designer. Despite the fact that I have always worked closely with maths, physics and computer science, I've recently found myself greatly enjoying computer science on its own, as it's been my lifelong ambition.
 Over the last year and a half I have dedicated myself to preparing to change jobs and start working as a programmer.
